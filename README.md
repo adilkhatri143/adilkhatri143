@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @adilkhatri143
-- 👀 I’m interested in building products
-- 🌱 I’m currently learning Flutter
 - 📫 How to reach me => https://www.linkedin.com/in/adil-khatri-228151122/
 
 <!---
